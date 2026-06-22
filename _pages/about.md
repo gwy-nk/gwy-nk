@@ -14,7 +14,7 @@ profile:
 
 news: true 
 social: true 
-selected_papers: true # <---- 关键：加上这一行，模板就会自动帮你排版精选论文
+selected_papers: true 
 ---
 
 Hi, I am Wenya Guo! 👋 
