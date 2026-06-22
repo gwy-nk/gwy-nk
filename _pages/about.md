@@ -1,21 +1,4 @@
----
-layout: about
-title: about
-permalink: /
-subtitle: Ph.D. / Researcher in Computer Science.
 
-profile:
-  align: right
-  image: prof_pic.jpg 
-  image_circular: false
-  address: >
-    <p>Your University / Institute</p>
-    <p>City, Country</p>
-
-news: true 
-social: true 
-selected_papers: true 
----
 
 Hi, I am Wenya Guo! 👋 
 
